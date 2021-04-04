@@ -30,7 +30,7 @@ num_AccountActive60	кол-во активных счетов счетов за последние 60 дней
 Active_to_All_prc	отношение активных счетов ко всем счетам
 numAccountActiveAll	кол-во открытых счетоа
 numAccountClosed	кол-во закрытых счетов
-sum_of_paym_months	сумма платежей за последний мес€ц (тыс.)
+sum_of_paym_months	сумма платежей за последний мес€ц
 all_credits	 ол-во кредитов
 Active_not_cc	јктивные кредитные счета, но не кредитна€ карта
 own_closed	 ол-во закрытых кредитов
